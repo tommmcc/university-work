@@ -1,3 +1,6 @@
-# Diploma Projects
+# Diploma Work
 
-Projects completed during my Diploma studies.
+Coursework projects completed during my Diploma studies.
+
+## Projects
+- **banking-system-oop/** – Introductory object-oriented programming project (classes, polymorphism, file I/O).
