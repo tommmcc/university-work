@@ -6,13 +6,8 @@ The system allows users to manage customers, accommodations, lift passes, and le
 
 ---
 
-## Screenshots
-
 ### Main Interface
 ![Main Interface](screenshots/main.png)
-
-### Package Management
-![Package Management](screenshots/packages.png)
 
 ---
 
