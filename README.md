@@ -6,24 +6,14 @@ The purpose of this repository is to serve as a structured collection of coursew
 
 ---
 
-## Repository Structure
+## Projects
 
-- `diploma-work/` – Projects completed during my Diploma studies  
-- `associate-work/` – Projects completed during my Associate degree  
-- `bachelor-work/` – Projects completed during my Bachelor degree  
+| Project | Level |
+|---------|--------|
+| Banking System (OOP Foundations) | Diploma |
 
-Each folder contains individual projects with their own source files and documentation where applicable.
+Additional projects from Associate and Bachelor studies will be added as they are organised.
 
----
-
-## Topics Covered
-
-Across these projects, topics covered include:
-
-- Object-Oriented Programming  
-- Software Design Fundamentals  
-- File I/O and Data Handling  
-- Web Development  
-- Backend Development Concepts  
+Each project folder contains its own source code and documentation.
 
 ---
