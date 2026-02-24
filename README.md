@@ -9,8 +9,7 @@ Coursework projects completed during my Diploma, Associate, and Bachelor studies
 | Project | Course |
 |---------|--------|
 | Banking System (OOP Foundations) | Diploma |
-
-Additional projects from Associate and Bachelor studies will be added as they are organised.
+| Snow Resort GUI (Java Swing OOP) | Associate degree |
 
 Each project folder contains its own source code and documentation.
 
