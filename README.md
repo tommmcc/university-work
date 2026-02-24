@@ -2,7 +2,7 @@
 
 This repository contains academic software development projects completed throughout my Diploma, Associate, and Bachelor studies.
 
-The purpose of this repository is to document coursework projects and demonstrate the progression of concepts covered during my formal education.
+The purpose of this repository is to serve as a structured collection of coursework projects completed during my formal education
 
 ---
 
@@ -18,7 +18,7 @@ Each folder contains individual projects with their own source files and documen
 
 ## Topics Covered
 
-Across these projects, areas of study include:
+Across these projects, topics covered include:
 
 - Object-Oriented Programming  
 - Software Design Fundamentals  
@@ -27,5 +27,3 @@ Across these projects, areas of study include:
 - Backend Development Concepts  
 
 ---
-
-This repository represents academic coursework and foundational development experience.
