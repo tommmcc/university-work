@@ -8,7 +8,7 @@ The purpose of this repository is to serve as a structured collection of coursew
 
 ## Projects
 
-| Project | Level |
+| Project | Course |
 |---------|--------|
 | Banking System (OOP Foundations) | Diploma |
 
