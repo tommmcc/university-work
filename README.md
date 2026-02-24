@@ -1,6 +1,6 @@
 # University Work
 
-Coursework projects completed during my Diploma, Associate & Bachelor studies.
+Coursework projects completed during my Diploma, Associate, and Bachelor studies.
 
 ---
 
