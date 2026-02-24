@@ -1,0 +1,6 @@
+186421;Anna;31;Sydney
+186422;Kate;29;Canberra
+186423;Peter;19;Brisbane
+186424;Robert;26;Melbourne
+186425;Sarah;35;Perth
+186426;Tony;42;Hobart
