@@ -1,8 +1,6 @@
 # University Work
 
-This repository contains academic software development projects completed throughout my Diploma, Associate, and Bachelor studies.
-
-The purpose of this repository is to serve as a structured collection of coursework projects completed during my formal education
+Coursework projects completed during my Diploma, Associate & Bachelor studies.
 
 ---
 
