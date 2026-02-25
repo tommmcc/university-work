@@ -19,6 +19,50 @@ Originally developed during my Diploma studies (2023) and later refactored (2026
 
 ---
 
+## UI Evolution (2023 → 2026 Refactor)
+
+Below is a visual comparison of the original version and the refactored version.
+
+### 🏠 Home Screen
+
+| Before (2023) | After (2026 Refactor) |
+|---|---|
+| <img src="images/lmsv1.JPG" height="260" /> | <img src="images/lmsv2.JPG" height="260" /> |>
+
+---
+
+### 📚 Books Panel
+
+| Before (2023) | After (2026 Refactor) |
+|---|---|
+| <img src="images/lmsbooksv1.JPG" height="260" /> | <img src="images/lmsbooksv2.JPG" height="260" /> |
+
+---
+
+### 👤 Borrowers Panel
+
+| Before (2023) | After (2026 Refactor) |
+|---|---|
+| <img src="images/lmsborrowersv1.JPG" height="260" /> | <img src="images/lmsborrowersv2.JPG" height="260" /> |
+
+---
+
+### 🔄 Loans Panel
+
+| Before (2023) | After (2026 Refactor) |
+|---|---|
+| <img src="images/lmsloansv1.JPG" height="260" /> | <img src="images/lmsloansv2.JPG" height="260" /> |
+
+---
+
+### 🛒 Checkout Panel
+
+| Before (2023) | After (2026 Refactor) |
+|---|---|
+| <img src="images/lmscheckoutv1.JPG" height="260" /> | <img src="images/lmscheckoutv2.JPG" height="260" /> |
+
+---
+
 ## Architecture
 
 Layered design:
