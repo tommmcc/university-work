@@ -1,0 +1,37 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'lms'
+version = '2.0.0'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(22)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Modern Swing look & feel
+    implementation 'com.formdev:flatlaf:3.5.4'
+
+    // SQLite JDBC driver
+    implementation 'org.xerial:sqlite-jdbc:3.49.1.0'
+}
+
+application {
+    mainClass = 'lms.Library'
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}
+
+tasks.withType(JavaExec).configureEach {
+    jvmArgs '-Dfile.encoding=UTF-8'
+}
