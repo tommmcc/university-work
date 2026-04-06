@@ -8,8 +8,8 @@ Coursework projects completed during my Diploma, Associate, and Bachelor studies
 
 | Project | Course |
 |---------|--------|
-| Banking System (OOP Foundations) | Diploma |
-| Snow Resort GUI (Java Swing OOP) | Associate degree (Refactor live April 2026) |
+| Banking System (OOP Foundations) | Diploma 2023 |
+| Snow Resort GUI (Java Swing OOP) | Associate degree 2024 (Refactor live April 2026) |
 | Library Management System LMS | Diploma 2023 (Revisited & Refactored 2026) |
 
 Each project folder contains its own source code and documentation.
