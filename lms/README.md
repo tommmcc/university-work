@@ -23,7 +23,7 @@ Originally developed during my Diploma studies (2023) and later refactored (2026
 
 Below is a visual comparison of the original version and the refactored version.
 
-### 🏠 Home Screen
+###  Home Screen
 
 | Before (2023) | After (2026 Refactor) |
 |---|---|
