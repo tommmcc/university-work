@@ -31,7 +31,7 @@ Below is a visual comparison of the original version and the refactored version.
 
 ---
 
-### 📚 Books Panel
+###  Books Panel
 
 | Before (2023) | After (2026 Refactor) |
 |---|---|
@@ -39,7 +39,7 @@ Below is a visual comparison of the original version and the refactored version.
 
 ---
 
-### 👤 Borrowers Panel
+###  Borrowers Panel
 
 | Before (2023) | After (2026 Refactor) |
 |---|---|
@@ -47,7 +47,7 @@ Below is a visual comparison of the original version and the refactored version.
 
 ---
 
-### 🔄 Loans Panel
+###  Loans Panel
 
 | Before (2023) | After (2026 Refactor) |
 |---|---|
@@ -55,7 +55,7 @@ Below is a visual comparison of the original version and the refactored version.
 
 ---
 
-### 🛒 Checkout Panel
+###  Checkout Panel
 
 | Before (2023) | After (2026 Refactor) |
 |---|---|
