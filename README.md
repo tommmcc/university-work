@@ -12,6 +12,7 @@ Coursework projects completed during my Diploma, Associate, and Bachelor studies
 | Snow Resort GUI (Java Swing OOP) | Associate degree 2024 (Refactor live April 2026) |
 | Library Management System LMS | Diploma 2023 (Revisited & Refactored 2026) |
 | Blockchain-based Distributed Inventory System | Bachelor’s Degree (May 2026) |
+| Cafe AWS Cloud Infrastructure | Cloud Operations | Bachelor’s Degree (June 2026) |
 
 Each project folder contains its own source code and documentation.
 
