@@ -13,6 +13,7 @@ Coursework projects completed during my Diploma, Associate, and Bachelor studies
 | Library Management System LMS | Diploma 2023 (Revisited & Refactored 2026) |
 | Blockchain-based Distributed Inventory System | Bachelor’s Degree (May 2026) |
 | Cafe AWS Cloud Infrastructure | Bachelor’s Degree (June 2026) |
+| Networking-labs | (2023-2025) |
 
 Each project folder contains its own source code and documentation.
 
